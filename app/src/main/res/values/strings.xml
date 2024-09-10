@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestContextMenu</string>
+    <string name="textScoreTeacher">Оценка преподавателя</string>
+    <string name="changeColor">Цветовое качество</string>
+    <string name="changeMode">Изменить режим</string>
+    <string name="exit">Выход из приложения</string>
+    <string name="modeFalse">Режим ввода оценки</string>
+    <string name="modeTrue">Режим случайного числа</string>
+    <string name="random">Случайное число</string>
+</resources>
